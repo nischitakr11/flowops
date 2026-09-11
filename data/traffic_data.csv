@@ -1,1 +1,11 @@
-
+speed,vehicle_type,traffic_density
+45,Car,Low
+32,Bike,High
+28,Bus,High
+55,Car,Low
+35,Truck,High
+48,Bike,Low
+25,Car,High
+60,Car,Low
+30,Bus,High
+50,Bike,Low
